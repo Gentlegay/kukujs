@@ -5,7 +5,7 @@
 ## Normal usage
 
 ````javascript
-seajs.use('kukujs', function(kukujs) {
+seajs.use('moment', function(moment) {
 
 });
 ````

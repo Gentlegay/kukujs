@@ -1,4 +1,4 @@
-# kukujs
+# moment
 
 ---
 
@@ -11,12 +11,12 @@ A nice CMD module.
 It is very easy to use this module.
 
 ````html
-<div class="platform-kukujs">
+<div class="-moment">
 </div>
 ````
 
 ```javascript
-seajs.use('kukujs', function(kukujs) {
+seajs.use('moment', function(moment) {
 
 });
 ```

@@ -1,6 +1,6 @@
 {
-  "family": "platform",
-  "name": "kukujs",
+  "family": "",
+  "name": "moment",
   "version": "1.0.0",
   "description": "The best project ever.",
   "homepage": "https://github.com/peter-sun/kukujs",
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/peter-sun/kukujs"
+    "url": "git://github.com/peter-sun/kukujs.git"
   },
   "bugs": {
     "url": ""
@@ -19,8 +19,8 @@
   "licenses": "MIT",
   "spm": {
     "output": [
-      "kukujs.js",
-      "kukujs.css"
+      "moment.js",
+      "moment.css"
     ],
     "alias": {},
     "devAlias": {},
