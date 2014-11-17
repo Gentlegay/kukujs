@@ -1,0 +1,29 @@
+{
+  "family": "platform",
+  "name": "kukujs",
+  "version": "1.0.0",
+  "description": "The best project ever.",
+  "homepage": "https://github.com/peter-sun/kukujs",
+  "author": "zPeter",
+  "maintainers": [
+    "zPeter"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/peter-sun/kukujs"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": [
+      "kukujs.js",
+      "kukujs.css"
+    ],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
